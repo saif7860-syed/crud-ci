@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/htdocs/ci3/bcit-ci-CodeIgniter-b73eb19/';
+$config['base_url'] = 'http://localhost/htdocs/crud-ci/';
 
 /*
 |--------------------------------------------------------------------------
